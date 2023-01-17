@@ -1,4 +1,3 @@
-# Zero Trust Fundamentals
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Introduction</h2>
 <!-- /wp:heading -->
